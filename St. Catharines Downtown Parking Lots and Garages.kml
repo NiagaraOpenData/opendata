@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Downtown Parking Lots and Garages</name>
+		<Placemark>
+			<name>Garden Park / Carlisle Street Garage</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[71 Carlisle St.<br>Spaces: 600<br>Accessible spaces: 26<br>Clearance: 9 feet (Garden Park entrance)<br><br>Daily parkers and monthly permits - enter on Garden Park Drive.<br>Underground monthly permits - enter on Carlisle Street.<br>Please note: No daily parking is offered underground.<br><br>Amenities: elevator; on-site security; bicycle racks; express credit card entry/exit; carpool and hybrid parking.<br> <br>Hourly Rate: $1.50<br>Maximum Rate: $12<br>Monthly: Above Ground Level $81.50<br> Underground Level $95<br>Lost permit replacement fee: $10<br>Additional swipe card fee: $10<br>Meridian Centre events: $5<br><br>Pay-on-foot (VISA, MasterCard accepted) or use express credit card entry/exit<br>Accepted coins: tokens, quarters, loonies, toonies<br>                                                                                           The Rankin Gateway is open at St. Paul Street for travel to and from the Meridian Centre from 7 a.m. to 6 p.m., Monday to Friday during Non-Event days.<br>                                                                                           The South Walkway at St. Paul Street is only open to the public when events are happening at the Meridian Centre. <br><br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.244106,43.159269,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ontario Street Garage</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[8 Ontario St. <br>Enter on Ontario or William street. <br>Spaces: 469<br>Accessible spaces: 3<br>Clearance: 7 feet<br><br>Ammenities: elevator; on-site security; bicycle racks.<br> <br>Indoor and outdoor lot<br><br>Hourly Rate: $1.50 (maximum 8 hours)<br>Maximum Rate: $12<br>Monthly Rate: $81.50<br>Lost permit replacement fee: $10<br>Meridian Centre events: $5<br> <br> Obtain ticket at entry, pay on exit - Cash only.<br>                                                                                    The Rankin Gateway is open at St. Paul Street for travel to and from the Meridian Centre from 7 a.m. to 6 p.m., Monday to Friday during Non-Event days.<br>                                                                                           The South Walkway at St. Paul Street is only open to the public when events are happening at the Meridian Centre. <br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.2469598,43.1560682,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Paul Street / Westchester Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[8 St. Paul St. <br>Enter on St. Paul Street or Westchester Avenue <br>Spaces: 16<br>Accessible spaces: 2<br><br>Outdoor lot <br><br>Pay-and-display (VISA, MasterCard, AMEX accepted)<br>Accepted coins: tokens, quarters, loonies, toonies<br><br>Hourly Rate: $1.50 (maximum 8 hours)<br>Maximum Rate: $12<br>Monthly Rate: N/A<br><br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.245157,43.155418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Garden Park Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[11 Garden Park <br>Enter on Garden Park <br>Spaces: 67<br>Accessible spaces: 2<br><br>Outdoor lot <br> <br>Pay-and-display (VISA, MasterCard, AMEX accepted) <br> Accepted coins: tokens, quarters, loonies, toonies<br><br>Hourly Rate: $1.50 <br>Maximum Rate: $4.50 (3 hour maximum stay)<br>Monthly Rate: N/A<br><br>Prices include HST]]></description>
+			<Point>
+				<coordinates>-79.244481,43.15890900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Library Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[54 Church St. <br>Enter on Carlisle Street<br>Spaces: 62<br>Accessible spaces: 4 (2 underground; 2 above ground)<br> <br>Outdoor and covered lot<br> <br> Pay-and-display (VISA, MasterCard, AMEX accepted)<br>Accepted coins: tokens, quarters, loonies, toonies<br> <br>Hourly Rate: $1.50 (3 hour maximum stay)<br>Maximum Rate: $4.50 <br>Monthly Rate: N/A<br><br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.24586,43.1604509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Market Square Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[50 Church St. <br>Enter on Church, James or King streets <br>Spaces: 113<br>Accessible spaces: 6<br><br>Outdoor lot <br><br>Pay-and-display (VISA, MasterCard, AMEX accepted)<br>Accepted coins: tokens, quarters, loonies, toonies<br><br>Hourly Rate: $1.50 <br>Maximum Rate: $4.50 (3 hour maximum stay)<br>Monthly Rate: N/A<br><br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.2467023,43.1586834,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-ci-2</styleUrl>
+			<name>William Street Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[36 William St. <br>Enter on William Street <br>Spaces: 19<br> <br>Outdoor lot<br><br>Hourly Rate: N/A<br>Maximum Rate: N/A<br>Monthly Rate: $65<br>Lost permit replacement fee: $10<br> <br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.2486335,43.1572613,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Garden City Arena Complex Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[8 Gale Cres.<br>Enter on Gale Crescent or Riordon Street.<br>Spaces: 77<br>Accessible spaces: 4<br><br>Outdoor lot<br><br>Hourly Rate: Free two hour maximum (arena patrons only)<br>Maximum Rate: N/A]]></description>
+			<Point>
+				<coordinates>-79.23947100000001,43.160052,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riordon Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[29 Riordon St. <br>Enter on Riordon Street<br>Spaces: 82<br> <br>Outdoor lot<br><br>Hourly Rate: Free two hour maximum (arena patrons only)<br>Maximum Rate: N/A<br>Monthly Rate: $50<br>Lost permit replacement fee: $10<br> <br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.238001,43.16092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Head Street Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[9 Race St. <br>Enter on Head or Race streets <br>Spaces: 42<br> <br>Outdoor lot<br> <br>Hourly Rate: N/A <br>Maximum Rate: N/A<br>Monthly Rate: $65<br>Lost permit replacement fee: $10<br> <br><br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.241,43.159015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>King Street Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[140 King St. <br>Enter on Carlisle Street <br>Spaces: 8<br> <br>Outdoor lot<br><br>Hourly Rate: N/A<br>Maximum Rate: N/A<br>Monthly Rate: $75<br>Lost permit replacement fee: $10<br><br>Prices include HST.]]></description>
+			<Point>
+				<coordinates>-79.244653,43.159965,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meridian Centre Lot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[1 IceDogs Way<br>Monthly Permit Holder Spaces: 39<br>Accessible spaces: 28<br>15 minute time limit spaces: 3<br><br>Outdoor lot<br><br>Hourly Rate: N/A<br>Maximum Rate: N/A<br>Monthly Rate: $65<br><br> Permit parking available Monday to Friday, 8 a.m. to 6 p.m. only.<br>Permit does not allow parking at any other time.<br>Permits available on a first come, first served basis.                                                                                                                                                                     The Rankin Gateway is open at St. Paul Street for travel to and from the Meridian Centre from 7 a.m. to 6 p.m., Monday to Friday during Non-Event days.<br>                                                                                           The South Walkway at St. Paul Street is only open to the public when events are happening at the Meridian Centre. <br>Prices include HST]]></description>
+			<Point>
+				<coordinates>-79.2438504,43.156439,0.0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
