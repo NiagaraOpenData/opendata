@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+require "nokogiri"
+require "csv"
+
+file = ARGV[0] || (abort "ERROR: Need XML file")
+
+doc = Nokogiri::XML.parse(open(file))
+
+csv_string = CSV.generate do |csv|
+  csv << %w(name description latitude longitude elevation)
+
+  doc.css("Placemark").each do |placemark|
+    name = placemark.css("name").text
+    description = "" #placemark.css("description").text.gsub(/<br\/?>/, "").gsub(/\n/, "")
+    coordinates = placemark.css("coordinates").text
+
+    (latitude, longitude, elevation) = coordinates.split(",")
+    csv << [name, description, latitude, longitude, elevation]
+  end
+end
+
+puts csv_string
