@@ -1,33 +1,23 @@
-# OpenData
+# Niagara Open Data
 
-## St. Catharines Downtown Parking Lots and Garages
+### Open Data Sets
 
-Files:
-[KML](St. Catharines Downtown Parking Lots and Garages.kml)
-[CSV](St. Catharines Downtown Parking Lots and Garages.csv)
+* Canada Open Government: http://open.canada.ca/en
 
-Source: [St. Catharines](http://www.stcatharines.ca/en/livein/ParkingLotsGarages.asp)
+* Ontario: https://www.ontario.ca/open-data
 
-## Population Statistics
+* Niagara Region: http://www.niagararegion.ca/government/opendata/ 
 
-Files:
-[2011](Population Statistics - 2011.csv)
-[2006](Population Statistics - 2006.csv)
-[2001](Population Statistics - 2001.csv)
+* Niagara Falls: https://www.niagarafalls.ca/services/open/data/ 
 
-Source: [St. Catharines](http://www.stcatharines.ca/en/investin/Demographics.asp)
+* Welland: http://www.welland.ca/open/Opendata.asp 
 
-## St. Catharines Population by Gender
+### Other Data Resources
 
-Files:
-[2011](St. Catharines Population by Age - 2011.csv)
+* City Data: http://www.city-data.com/canada/
 
-Source: Statistics Canada, 2011 Census
+* Open Geospatial Data: http://www.brocku.ca/maplibrary/digital/web-resources.php
 
-## Building Activity Statistics
+### Tools
 
-Files:
-[2011](Building Activity Statistics - 2011.csv)
-[2010](Building Activity Statistics - 2010.csv)
-
-Source: [St. Catharines Planning and Development Services](http://www.stcatharines.ca/en/documents/documentuploads/OfficialDocumentsAndPlans/doc_634802083224481841.pdf)
+KML Displayer (Visualize geo-data on map): http://display-kml.appspot.com/ 
