@@ -1,0 +1,84 @@
+ERD
+* = key
+
+ORGANIZATION
+Name_Org *
+Name_FB *
+Affiliation: worship, private, government, school
+
+
+ORG_BRANCH
+Name_FB *
+Address_Street
+Neighbourhood
+Municipality
+Postal_Code
+Phone_No
+Web_URL
+Drop_Off: Y/N
+Pick_Up:Y/N
+Geo_Coordinate
+
+
+SERVICE
+Auto_No *
+Name_FB
+Price-Point: free, discount, full price
+Service_Desc:
+--Food bank
+--Food co-op
+--Free meal program
+--Meals on wheels
+--Out of the cold
+--Student nutrition program
+--Farmer's market
+--Grocery store
+--Super market
+--Kid's Pyjamas
+--Books
+--Toys
+--Winter coats
+--Clothing
+--Toiletries
+--Hygiene products
+--Small household appliances
+--Furniture
+--School supplies
+--Social housing
+--Building supplies
+--Refurbished equipment
+--Animals
+--Recycling (batteries, printer cartridges, paint cans, electronics, propane tanks, medication, etc)
+
+
+CATEGORIES
+Service_Type: (kijiji categories)
+
+
+DROP_OFF_TIMES (give)
+Name_FB *
+Date_Month *
+Date_Week *
+Date_Day *
+Date_Time *
+Request (long_note)
+
+
+PICK_UP_TIMES (get)
+Name_FB *
+Date_Month *
+Date_Week *
+Date_Day *
+Date_Time *
+
+
+TRANSIT_OPTION
+????
+
+
+USER_INPUT
+Key * ????????
+Phone_Coordinate (geo)
+Enter_Address
+Enter_Municipality
+Enter_Postal
