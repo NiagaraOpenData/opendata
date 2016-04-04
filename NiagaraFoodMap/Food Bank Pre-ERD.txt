@@ -1,14 +1,20 @@
-ERD
-* = key
+<TXT>
+
+
+--This is a text-based representation of a database. My goal is to formulate it into a series of SQL commands that can be entered sequentially to build a database in a dialog environment.
+--I will also be drawing a standard Entity Relationship Diagram (ERD) as a visual representation of the database.
+--Primary keys are represented by the '*' symbol. Foreign keys will be represented by the '**' symbol.
+--I will upload the mysql file once I have it set up.
+
 
 ORGANIZATION
 Name_Org *
-Name_FB *
+Name_Branch **
 Affiliation: worship, private, government, school
 
 
 ORG_BRANCH
-Name_FB *
+Name_Branch *
 Address_Street
 Neighbourhood
 Municipality
@@ -22,7 +28,7 @@ Geo_Coordinate
 
 SERVICE
 Auto_No *
-Name_FB
+Name_Branch**
 Price-Point: free, discount, full price
 Service_Desc:
 --Food bank
@@ -56,7 +62,7 @@ Service_Type: (kijiji categories)
 
 
 DROP_OFF_TIMES (give)
-Name_FB *
+Name_Branch **
 Date_Month *
 Date_Week *
 Date_Day *
@@ -65,7 +71,7 @@ Request (long_note)
 
 
 PICK_UP_TIMES (get)
-Name_FB *
+Name_Branch *
 Date_Month *
 Date_Week *
 Date_Day *
